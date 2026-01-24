@@ -1,1 +1,1 @@
-# My-Projects
+# Algorithmic Marketing Projects
